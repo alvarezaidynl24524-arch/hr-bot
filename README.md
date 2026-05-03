@@ -57,7 +57,7 @@ hr-bot/
 
 **1. 克隆项目**
 ```bash
-git clone https://github.com/你的用户名/hr-bot.git
+git clone https://github.com/alvarezaidynl24524-arch/hr-bot.git
 cd hr-bot
 ```
 **2. 安装依赖**
