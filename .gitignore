@@ -1,7 +1,30 @@
-.env
-chroma_db/
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# Python 缓存
 __pycache__/
 *.pyc
-venv/
-docs/*.pdf
-docs/*.txt
+*.pyo
+
+# 数据库和向量库
+chroma_db/
+*.db
+
+# 不相关的课程文件夹
+fastapi课程/
+langchain课程学习/
+python学习/
+小项目/
+外部库/
+
+# 临时文件
+docs/   # 如果不想公开公司文档可以保留这行
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# 环境变量
+.env
