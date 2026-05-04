@@ -16,3 +16,4 @@ sentence-transformers
 huggingface-hub
 FlagEmbedding
 torch
+langchain-huggingface
