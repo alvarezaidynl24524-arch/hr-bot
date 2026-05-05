@@ -15,5 +15,5 @@ docx2txt
 sentence-transformers
 huggingface-hub
 FlagEmbedding
-torch
+https://download.pytorch.org/whl/cpu
 langchain-huggingface
